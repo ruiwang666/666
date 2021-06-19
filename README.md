@@ -6,11 +6,13 @@
 We present a novel architecture for precipitation nowcasting, Task-segmented Recurrent Generative Adversarial Network (TS-RainGAN), which shows state-of-the-art performance in 6-hour precipitatin nowcasting.
 
 ![1](./figure1.png)
+
 **Figure 1:** *The detail maintenance in the predicted radar reflectivity image (with lead time of 1 hour) by the TS-RainGAN, the ConvLSTM, the PredRNN++, and the MIM during the rainfall event in 27 April 2012.*
 
 
 ![2](./figure2.png)
-**Picture:** *Performance comparison of the 6-hour nowcasting by the TS-RainGAN, the ConvLSTM, the PredRNN++, and the MIM. during the selected rainfall events on 27 April 2012.*
+
+**Figure 2:** *Performance comparison of the 6-hour nowcasting by the TS-RainGAN, the ConvLSTM, the PredRNN++, and the MIM. during the selected rainfall events on 27 April 2012.*
 
 
 
