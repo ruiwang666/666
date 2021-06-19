@@ -19,7 +19,7 @@ We present a novel architecture for precipitation nowcasting, Task-segmented Rec
 
 ## Install the following packages on CentOS
 
-All code was developed and tested on RTX8000 the following environment.
+All code was developed and tested on 2 * RTX8000 the following environment.
 
 - Python 3.7
 - opencv3
