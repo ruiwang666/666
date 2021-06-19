@@ -23,5 +23,9 @@ All code was developed and tested on RTX8000 the following environment.
 
 The training data is HKO Dopper Radar reflectivity data, provided by the Hong Kong Observatory.
 
+Please contact Email: rwangbp@connect.ust.hk if you have any concerns using this code.
+
+@copyright statement: The code in this project is written by Rui Wang. The usage of the code is only for scientific research. Your acknowledgement or citation of this code is much appreciated.
+
 
 
