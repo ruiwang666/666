@@ -33,7 +33,7 @@ The training data is HKO Dopper Radar reflectivity data, provided by the Hong Ko
 
 Please contact Email: rwangbp@connect.ust.hk if you have any concerns using this code.
 
-# copyright statement
+# Copyright statement
 The code in this project is written by Rui Wang, currently postgraduate student at HKUST supervised by professor Jimmy Fung. This code is only for testing purpose by reviewers of our submitted manuscript. Any actions of copying the code for publication or commercial usage before the formal publication of our code related manuscript will be considered as copyright violation.
 
 # Acknowledgment
